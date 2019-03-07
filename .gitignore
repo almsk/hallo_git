@@ -1,3 +1,7 @@
 #.gitignore 
 unwantedfile
 unwantedfolder/
+access.log
+auth.log
+error.log
+
